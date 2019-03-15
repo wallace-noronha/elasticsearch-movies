@@ -1,0 +1,9 @@
+br\com\elasticsearch\controller\HomeController.class
+br\com\elasticsearch\model\SearchCriteriaModel.class
+br\com\elasticsearch\controller\FilmeController.class
+br\com\elasticsearch\model\Filme.class
+br\com\elasticsearch\model\SearchModel.class
+br\com\elasticsearch\model\ShardsModel.class
+br\com\elasticsearch\model\SourceRating.class
+br\com\elasticsearch\rest\FilmeClient.class
+br\com\elasticsearch\model\ElasticModel.class
